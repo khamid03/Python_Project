@@ -1,0 +1,50 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 73
+        placeholder_text: '# TODO Add libraries'
+      - offset: 82
+        length: 26
+        placeholder_text: '# TODO Read .csv file'
+      - offset: 130
+        length: 41
+        placeholder_text: "# TODO Do value_counts regarding ['platform', 'genre']"
+      - offset: 213
+        length: 54
+        placeholder_text: '# TODO Rename the 0 column to ''counts'' in our DataFrame'
+      - offset: 352
+        length: 71
+        placeholder_text: '# TODO Do the same as on top for sorting genre in ascending'
+      - offset: 430
+        length: 65
+        placeholder_text: '# TODO Do the same as on top for sorting genre in ascending'
+      - offset: 504
+        length: 71
+        placeholder_text: '# TODO Do the same as on top for sorting genre in ascending'
+      - offset: 586
+        length: 29
+        placeholder_text: '# TODO Concatenate previous 4 new DataFrames for plotting'
+      - offset: 619
+        length: 25
+        placeholder_text: '# TODO Set style as ''darkgrid'''
+      - offset: 684
+        length: 76
+        placeholder_text: "# TODO Barplot of our concatonated data with data,x,y,hue and\
+      \ saturation=0.9"
+      - offset: 761
+        length: 26
+        placeholder_text: '# TODO Set style as ''whitegrid'''
+      - offset: 788
+        length: 44
+        placeholder_text: '# TODO put legend without frame and with ''genre'' as title'
+      - offset: 918
+        length: 62
+        placeholder_text: '# TODO Save figure with ''project_done.png'' and dpi as 300
+      and tight bbox'
+  - name: project.png
+    visible: true
+  - name: dataset.csv
+    visible: true

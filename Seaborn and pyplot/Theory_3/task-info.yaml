@@ -1,0 +1,16 @@
+type: theory
+files:
+  - name: Theory_3.md
+    visible: true
+  - name: project.png
+    visible: false
+  - name: set_style_2_0.png
+    visible: false
+  - name: set_style_1_0.png
+    visible: false
+  - name: legend_1.png
+    visible: false
+  - name: legend_2.png
+    visible: false
+  - name: Task1.png
+    visible: false

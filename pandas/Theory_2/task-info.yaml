@@ -1,0 +1,7 @@
+type: theory
+files:
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: Theory_2.md
+    visible: true

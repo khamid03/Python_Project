@@ -1,0 +1,13 @@
+type: marketplace
+title: Python Project
+language: English
+summary: |-
+  We will learn how to plot information as from .csv file and analyze it so that we get only the data we need and save the photo of the chart we have done.
+  Each step requires you to complete some tasks so that you will not be lost and will be able to do it on your own as well.
+programming_language: Python
+environment: unittest
+content:
+  - Intro
+  - pandas
+  - Seaborn and pyplot
+  - Done Project

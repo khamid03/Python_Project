@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 588
+        placeholder_text: '#TODO Enter your code for importing data and plotting'
+  - name: project.png
+    visible: false
+  - name: dataset.csv
+    visible: true
+  - name: Before_project.png
+    visible: true

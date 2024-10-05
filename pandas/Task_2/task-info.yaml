@@ -1,0 +1,43 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 41
+        length: 19
+        placeholder_text: '# TODO import libraries'
+      - offset: 113
+        length: 70
+        placeholder_text: '# TODO your code'
+      - offset: 222
+        length: 86
+        placeholder_text: '# TODO your code'
+      - offset: 351
+        length: 112
+        placeholder_text: '# TODO your code'
+      - offset: 503
+        length: 109
+        placeholder_text: '# TODO your code'
+      - offset: 652
+        length: 92
+        placeholder_text: '# TODO your code'
+      - offset: 794
+        length: 89
+        placeholder_text: '# TODO your code'
+      - offset: 933
+        length: 182
+        placeholder_text: '# TODO your code'
+  - name: tests/test_task.py
+    visible: false
+    propagatable: false
+  - name: __init__.py
+    visible: false
+    propagatable: false
+  - name: tests/__init__.py
+    visible: false
+    propagatable: false
+  - name: tests/dataset.csv
+    visible: false
+    propagatable: false
+  - name: dataset.csv
+    visible: true
