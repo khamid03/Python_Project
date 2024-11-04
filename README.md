@@ -73,10 +73,4 @@ Happy learning! If you have any issues, feel free to ask for assistance.
 
 ## License
 
-This project is licensed under the MIT License. See the full license text below:
-
----
-
-MIT License
-
-```
+This project is licensed under the MIT License.
